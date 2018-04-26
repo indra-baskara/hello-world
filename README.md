@@ -1,2 +1,6 @@
 # hello-world
-This my very first repository
+
+Hi ,,.
+
+I am prticularly new in this magic world.
+But, I like magic world.
